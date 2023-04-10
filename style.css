@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size:25px;
+    width: 100%;
+    margin: 0;
+}
+
+.note{
+    font-size:17px;
+    color:black;
+}
+
+#play{
+    font-size: 20px;
+}
+
+canvas{
+    box-shadow: 5px 5px 10px white;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: aliceblue;
+}
